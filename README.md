@@ -11,4 +11,4 @@ git push -u origin main
 
 ```
 1.create structures to represent human body information(structType)
-
+2.create a binary tree to store data (myfirstbinaryTree)
