@@ -1,16 +1,5 @@
-# How to commit
 
-```bash
-echo "# cpp-solving-hw-tasks" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:wasiful/cpp-solving-hw-tasks.git
-git push -u origin main
-
-```
-# All that is done
+# All that is Done
 
 learn cpp basics, condition,loops,array
 
@@ -27,3 +16,17 @@ work with operator overloading, date time formate, reading and storing, calculat
 use of binary search tree compress and decompress data by huffman Algorithm(compress-decompress-huffmanalgorithm,v2,v3)
 
 use class and structure, create database of some companies(ClassinDataBase)
+
+
+# Commit to Git Repo.
+
+```bash
+echo "# cpp-solving-hw-tasks" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:wasiful/cpp-solving-hw-tasks.git
+git push -u origin main
+
+```
