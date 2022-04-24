@@ -10,6 +10,8 @@ git remote add origin git@github.com:wasiful/cpp-solving-hw-tasks.git
 git push -u origin main
 
 ```
+# All that is done
+
 learn cpp basics, condition,loops,array
 
 create structures to represent human body information(structType)
