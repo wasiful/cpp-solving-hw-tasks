@@ -10,5 +10,8 @@ git remote add origin git@github.com:wasiful/cpp-solving-hw-tasks.git
 git push -u origin main
 
 ```
-1.create structures to represent human body information(structType)
-2.create a binary tree to store data (myfirstbinaryTree)
+learn cpp basics, condition,loops,array
+
+create structures to represent human body information(structType)
+
+create a binary tree to store data (myfirstbinaryTree)
