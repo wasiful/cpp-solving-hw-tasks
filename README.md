@@ -10,3 +10,5 @@ git remote add origin git@github.com:wasiful/cpp-solving-hw-tasks.git
 git push -u origin main
 
 ```
+1.create structures to represent human body information(structType)
+
