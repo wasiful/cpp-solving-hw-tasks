@@ -20,4 +20,6 @@ learn to work with class, storing details (OOP)
 
 read binary file and change between string to char and binary(function/library)
 
+work with date time formate, reading and storing, calculate leap year, 31 days
+
 use of binary search tree compress and decompress data by huffman Algorithm(compress-decompress-huffmanalgorithm,v2,v3)
