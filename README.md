@@ -19,3 +19,5 @@ create a binary tree to store data (myfirstbinaryTree)
 learn to work with class, storing details (OOP)
 
 read binary file and change between string to char and binary(function/library)
+
+use of binary search tree compress and decompress data by huffman Algorithm(compress-decompress-huffmanalgorithm)
