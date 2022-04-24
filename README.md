@@ -15,3 +15,5 @@ learn cpp basics, condition,loops,array
 create structures to represent human body information(structType)
 
 create a binary tree to store data (myfirstbinaryTree)
+
+learn to work with class, storing details (OOP)
